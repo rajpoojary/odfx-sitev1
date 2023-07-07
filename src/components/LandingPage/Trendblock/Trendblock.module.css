@@ -1,0 +1,70 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 51px;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  gap: 4px;
+}
+.rectangle167 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #f7f6f9;
+}
+.rectangle166 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #f7f6f9;
+}
+.rectangle165 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #18dc8a;
+}
+.rectangle164 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #ff6161;
+}
+.rectangle163 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #ff6161;
+}
+.rectangle162 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #ff6161;
+}
+.rectangle161 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #18dc8a;
+}
+.rectangle160 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #18dc8a;
+}
+.rectangle159 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #18dc8a;
+}
+.rectangle158 {
+  height: 20px;
+  align-self: stretch;
+  border-radius: 2px;
+  background-color: #18dc8a;
+}

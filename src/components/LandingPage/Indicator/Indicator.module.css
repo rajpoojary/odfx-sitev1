@@ -1,0 +1,27 @@
+.root {
+  position: absolute;
+  left: 63px;
+  top: 1374px;
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 16px;
+}
+.rectangle204 {
+  width: 120px;
+  height: 8px;
+  border-radius: 19px;
+  background-color: #8571ff;
+}
+.rectangle205 {
+  width: 120px;
+  height: 8px;
+  border-radius: 19px;
+  background-color: #ebe1ff;
+}
+.rectangle206 {
+  width: 120px;
+  height: 8px;
+  border-radius: 19px;
+  background-color: #ebe1ff;
+}

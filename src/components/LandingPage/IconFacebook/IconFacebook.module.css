@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 56px;
+  height: 56px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.subtract {
+  position: absolute;
+  left: 5.8333px;
+  top: 5.8333px;
+  width: 44.3333px;
+  height: 44.3333px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
